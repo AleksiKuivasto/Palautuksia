@@ -1,2 +1,2 @@
 # Palautuksia
-Mini-projektin palautuksia
+Palautuskanava miniprojektiin liittyville tehtäville
